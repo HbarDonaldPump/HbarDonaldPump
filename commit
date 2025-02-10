@@ -1,0 +1,3 @@
+git add index.html
+git commit -m "Afegit codi inicial per la pàgina Donald Pump"
+git push
